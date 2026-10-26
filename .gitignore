@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.cleanup_log.json
+.cleanup_journal.jsonl
+.folder_cleanup_settings.json
+build/
+dist/
+*.spec
